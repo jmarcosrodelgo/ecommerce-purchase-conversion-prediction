@@ -1,0 +1,21 @@
+session_id,customer_id,purchase_probability,predicted_purchase,marketing_priority,recommended_action
+S01215,C00735,0.798,1,High priority,Checkout reminder or product recommendation
+S01625,C01027,0.752,1,High priority,Checkout reminder or product recommendation
+S01593,C00148,0.715,1,High priority,Checkout reminder or product recommendation
+S02165,C01057,0.599,1,Medium priority,Discount or free shipping incentive
+S01206,C00490,0.512,1,Medium priority,Discount or free shipping incentive
+S02404,C00607,0.374,0,Low priority,No immediate paid marketing action
+S02307,C00698,0.374,0,Low priority,No immediate paid marketing action
+S01134,C00579,0.366,0,Low priority,No immediate paid marketing action
+S02250,C00853,0.356,0,Low priority,No immediate paid marketing action
+S00904,C00803,0.356,0,Low priority,No immediate paid marketing action
+S00748,C01145,0.307,0,Low priority,No immediate paid marketing action
+S02482,C00113,0.297,0,Low priority,No immediate paid marketing action
+S00872,C00779,0.276,0,Low priority,No immediate paid marketing action
+S00675,C01196,0.232,0,Low priority,No immediate paid marketing action
+S00276,C00005,0.221,0,Low priority,No immediate paid marketing action
+S02232,C00945,0.197,0,Low priority,No immediate paid marketing action
+S00455,C00148,0.184,0,Low priority,No immediate paid marketing action
+S02436,C01010,0.122,0,Low priority,No immediate paid marketing action
+S01545,C00063,0.1,0,Low priority,No immediate paid marketing action
+S00418,C00160,0.058,0,Low priority,No immediate paid marketing action
